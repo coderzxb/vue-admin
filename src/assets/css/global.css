@@ -1,0 +1,36 @@
+/*全局样式表*/
+html,body,#app{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	min-width: 1330px;
+}
+.el-breadcrumb{
+	margin-bottom: 16px;
+	font-size: 13px;
+}
+.el-table{
+	margin-top: 15px;
+	font-size: 13px;
+}
+.el-pagination{
+	margin-top: 15px;
+}
+.el-tag{
+	margin: 10px;
+}
+.bdtop{
+	border-top: 1px solid #eee;
+}
+.bdbottom{
+	border-bottom: 1px solid #eee;
+}
+.el-alert{
+	margin-bottom:  15px;
+}
+.el-steps{
+	margin-top: 15px;
+}
+.el-tabs{
+	margin-top: 15px;
+}
